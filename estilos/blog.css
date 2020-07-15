@@ -17,3 +17,7 @@ body{
     font-style: italic;
     font-family: fantasy;
 }
+#cabecera{
+    color:green;
+    font-size: 25px;
+}
