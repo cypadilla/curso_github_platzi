@@ -1,8 +1,10 @@
 body{
-    text-align: left;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    color: mediumpurple;   
-}
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;   
+    margin: auto ;
+    padding: 0;
+}   
 #container{
     width: 70%;
     padding: 3em;
