@@ -1,6 +1,19 @@
 body{
-    text-align: center;
-    font-family: cursive;
-    color: cornflowerblue;
-    
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: mediumpurple;   
+}
+#container{
+    width: 70%;
+    padding: 3em;
+    text-align: left;
+    border: 3px solid #08B7C2;
+   margin: auto; 
+}
+#container h1{
+    color: red;
+    font-weight: 100;
+    font-size: 40px;
+    font-style: italic;
+    font-family: fantasy;
 }
