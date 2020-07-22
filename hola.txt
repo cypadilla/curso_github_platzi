@@ -10,4 +10,6 @@ para probar el uso de ramas me inicialmente añadi este parrafo
 
 Master 1 
 
+Master 2 
+
 se cambio la conexion HTTPS por una conexión SSH
